@@ -1,6 +1,6 @@
 # QEM边坍缩实现的曲面简化——Unity
 
-![](MeshSimplification.gif)
+![](work.gif)
 
 参考文献：
 
